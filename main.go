@@ -1,7 +1,9 @@
 package main
 
-import "go_coding/chapter"
+import (
+	"go_coding/chapter"
+)
 
 func main() {
-	chapter.Case2()
+	chapter.Case3()
 }
